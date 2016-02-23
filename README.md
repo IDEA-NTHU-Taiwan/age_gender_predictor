@@ -1,3 +1,5 @@
+#A python implementation that infers the age and gender by text.
+##Please be notted: The more text your provide, more accurate it can achieve. 
 ![image](/image.png)
 The Python codes are wriiten by Jim Chang(Chun-Hao, Chang).
 Please start from predictor.py
