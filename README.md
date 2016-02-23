@@ -1,6 +1,9 @@
-This archive contains two lexica, one for age and one for gender.
+![image](/image.png)
+The Python codes are wriiten by Jim Chang(Chun-Hao, Chang).
+Please start from predictor.py
 
-To learn how to use this lexicon, please refer to the paper
+This research and lexica belong to the following:
+
 Sap, M., Park, G., Eichstaedt, J. E., Kern, M. L., Stillwell, D. J.,
 Kosinski, M., Ungar, L. H., & Schwartz, H. A. (2014).
 Developing Age and Gender Predictive Lexica over Social Media. In EMNLP
